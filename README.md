@@ -1,6 +1,6 @@
 <!-- HEADER (MAQSAD VA NOMI) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Loyiha%20Nomi&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mirziyod&fontSize=50&animation=fadeIn" width="100%" />
 
   <h3>✨ Loyihaning qisqacha tavsifi yoki shiori ✨</h3>
 
@@ -14,9 +14,9 @@
 
   <!-- BADGES (NISHONLAR) -->
   <p>
-    <img src="https://img.shields.io/github/stars/Mirziyod01/repo-name?style=for-the-badge&color=yellow" alt="Stars">
-    <img src="https://img.shields.io/github/forks/Mirziyod01/repo-name?style=for-the-badge&color=orange" alt="Forks">
-    <img src="https://img.shields.io/github/license/Mirziyod01/repo-name?style=for-the-badge&color=blue" alt="License">
+    <img src="https://img.shields.io/github/stars/Mirziyod01/Mirziyod?style=for-the-badge&color=yellow" alt="Stars">
+    <img src="https://img.shields.io/github/forks/Mirziyod01/Mirziyod?style=for-the-badge&color=orange" alt="Forks">
+    <img src="https://img.shields.io/github/license/Mirziyod01/Mirziyod?style=for-the-badge&color=blue" alt="License">
   </p>
 </div>
 
@@ -26,7 +26,7 @@
 
 ## 🧐 Loyiha Haqida
 
-Ushbu loyiha dasturchilar va foydalanuvchilar uchun qulay imkoniyatlarni taqdim etadi. Bu yerda siz loyihaning asosiy maqsadi, qanday muammoni hal qilishi va uning afzalliklari haqida yozishingiz mumkin.
+Ushbu **Mirziyod** loyihasi dasturchilar va foydalanuvchilar uchun qulay imkoniyatlarni taqdim etadi. Bu yerda siz loyihaning asosiy maqsadi, qanday muammoni hal qilishi va uning afzalliklari haqida yozishingiz mumkin.
 
 > 💡 **Eslatma:** Loyihangizning eng muhim xususiyatini alohida ta'kidlab ko'rsatishingiz mumkin.
 
@@ -60,5 +60,5 @@ Loyihani o'z kompyuteringizda ishga tushirish uchun quyidagi bosqichlarni bajari
 
 ### 1. Repozitoriyani klonlash
 ```bash
-git clone [https://github.com/Mirziyod01/repo-name.git](https://github.com/Mirziyod01/repo-name.git)
-cd repo-name
+git clone [https://github.com/Mirziyod01/Mirziyod.git](https://github.com/Mirziyod01/Mirziyod.git)
+cd Mirziyod
